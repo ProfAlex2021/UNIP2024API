@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNIP2024API", "UNIP2024API\UNIP2024API.csproj", "{118DAA2E-6436-4C85-ABD6-06A3734CE516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118DAA2E-6436-4C85-ABD6-06A3734CE516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118DAA2E-6436-4C85-ABD6-06A3734CE516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118DAA2E-6436-4C85-ABD6-06A3734CE516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118DAA2E-6436-4C85-ABD6-06A3734CE516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF92C7D7-9F54-4CA6-A021-86ACCB038626}
+	EndGlobalSection
+EndGlobal
